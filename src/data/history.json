@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Frontend Intern",
+    "organisation": "Smart Swift Innovations",
+    "startDate": "Feb , 2024",
+    "endDate": "May, 2024",
+    "experiences": ["Integrated real-time request handling.", "Developed dashboards for data visualization."],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Java Intern",
+    "organisation": "Upskill Java",
+    "startDate": "Aug, 2023",
+    "endDate": "Oct, 2022",
+    "experiences": ["Developed scalable Java applications.", "Generated reports with Java frameworks"],
+    "imageSrc": "history/microsoft.png"
+  }
+  
+]
